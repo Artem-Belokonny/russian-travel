@@ -31,6 +31,5 @@
 @media only screen and (max-width: 424px) {
     .place {
         grid-template-columns: 320px;
-        row-gap: 0;
     }
 }

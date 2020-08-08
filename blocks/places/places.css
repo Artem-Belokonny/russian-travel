@@ -30,7 +30,5 @@
 @media only screen and (max-width: 424px) {
     .places {
         max-width: 320px;
-        gap: 48px;
-        margin: 64px auto;
     }
 }

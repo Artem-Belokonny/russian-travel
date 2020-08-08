@@ -12,10 +12,3 @@
         margin-top: 48px
     }
 }
-
-@media only screen and (max-width: 424px) {
-    .footer__copyright {
-        line-height: 14px;
-        margin-top: 48px
-    }
-}

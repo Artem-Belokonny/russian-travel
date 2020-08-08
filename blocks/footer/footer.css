@@ -27,12 +27,3 @@
         padding-bottom: 24px;
     }
 }
-
-@media only screen and (max-width: 424px) {
-    .footer {
-        max-width: 288px;
-        flex-direction: column;
-        margin: 64px auto 0;
-        padding-bottom: 24px;
-    }
-}

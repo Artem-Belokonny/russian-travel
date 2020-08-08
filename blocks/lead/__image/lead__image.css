@@ -1,4 +1,25 @@
 .lead__image {
     width: 100%;
+    min-height: 615px;
     margin-bottom: 8px;
 } 
+
+@media only screen and (max-width: 1279px) {
+    .lead__image {
+        min-height: 580px;
+    } 
+
+@media only screen and (max-width: 1023px) {
+    .lead__image {
+        min-height: 480px;
+    } 
+
+@media only screen and (max-width: 767px) {
+    .lead__image {
+        min-height: 266px;
+    } 
+
+@media only screen and (max-width: 424px) {
+    .lead__image {
+        min-height: 200px;
+    } 
